@@ -1,6 +1,6 @@
 # Here is the final versions of kaggle competitions
 
-1.Training competition. Petals to Metals, Dec 22. 24-th place (as of 01/23).
+1. Training competition. Petals to Metals, Dec 22. 24-th place (as of 01/23).
 https://www.kaggle.com/competitions/tpu-getting-started/leaderboard
 
 2. LECR - learning equlity, April 2023. 79-th place (top 8%), bronze medal.
